@@ -1,4 +1,4 @@
-# Seed Security Labs
+# Seed Security Labs Descriptions
 
 # Spectre Attack:
 File: spectreattack.c
