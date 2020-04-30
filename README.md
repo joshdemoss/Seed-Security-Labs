@@ -31,5 +31,6 @@ In this project I was able to poison the ARP cache of neighboring systems by ass
 
 # XSS Attack:
 File: xss.java | XSS.pdf
+
 This attack was done on a out dated and vulnerable social media application. By inserting JavaScript into specific fields, I was able to develop a worm that would spread to other users and steal secret information. Since multiple different attacks were performed, it seemed more appropriate to include a pdf of the report along with the main attack which is stored as a java file (xss.java) for the sake of having github color code the file.
 
