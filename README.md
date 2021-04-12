@@ -1,7 +1,7 @@
 # Seed Security Lab Descriptions
 
 # Spectre Attack:
-File: spectreattack.c
+Main File: spectreattack.c
 
 This program exploits a former vulnerability in many modern systems that allowed for the breaking
 of intra and inter process isolation. This program is able to steal secret information by exploiting
